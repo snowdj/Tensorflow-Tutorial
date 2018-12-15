@@ -4,7 +4,6 @@
     </a>
 </p>
 
----
 
 <br>
 
@@ -29,6 +28,7 @@ All methods mentioned below have their video and text tutorial in Chinese. Visit
   * [Save and reload](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/303_save_reload.py)
   * [Optimizers](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/304_optimizer.py)
   * [Tensorboard](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/305_tensorboard.py)
+  * [Dataset](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/306_dataset.py)
 * Advanced neural network
   * [CNN](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/401_CNN.py)
   * [RNN-Classification](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/402_RNN_classification.py)
@@ -36,11 +36,12 @@ All methods mentioned below have their video and text tutorial in Chinese. Visit
   * [AutoEncoder](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/404_AutoEncoder.py)
   * [DQN Reinforcement Learning](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/405_DQN_reinforcement_learning.py)
   * [GAN (Generative Adversarial Nets)](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/406_GAN.py) / [Conditional GAN](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/406_conditional_GAN.py)
-
+  * [Transfer Learning](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/407_transfer_learning.py)
 * Others (WIP)
   * [Dropout](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/501_dropout.py)
   * [Batch Normalization](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/502_batch_normalization.py)
   * [Visualize Gradient Descent](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/503_visualize_gradient_descent.py)
+  * [Distributed training](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/504_distributed_training.py)
 
 ### [Regression](https://github.com/MorvanZhou/Tensorflow-Tutorial/blob/master/tutorial-contents/301_simple_regression.py)
 
